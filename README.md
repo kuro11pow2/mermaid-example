@@ -270,7 +270,7 @@ stop
 ```plantuml
 @startuml
  
-!include C4-PlantUML/C4_Container.puml
+!include https://raw.githubusercontent.com/plantuml-stdlib/C4-PlantUML/master/C4_Container.puml
 !define ICONS https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/
  
 !include ICONS/font-awesome-5/user_tie.puml
@@ -310,7 +310,7 @@ System_Boundary(clova_ai_call, "CLOVA AiCall") {
 ```plantuml
 @startuml
  
-!include C4-PlantUML/C4_Component.puml
+!include https://raw.githubusercontent.com/plantuml-stdlib/C4-PlantUML/master/C4_Component.puml
 !define ICONS https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/
  
 !include ICONS/govicons/user_suit.puml
